@@ -1,0 +1,44 @@
+# Git Commands Used
+
+1. Clone the repository  
+   git clone https://github.com/clarusway/FS-Git-Live-Class.git
+
+2. Navigate into the project directory  
+   cd FS-Git-Live-Class
+
+3. Create and switch to a new feature branch  
+   git checkout -b feature-SDA2039
+
+4. Verify the current branch  
+   git branch
+
+5. Create a contribution file  
+   (Created using Notepad on Windows, named: SDA2039.txt)
+
+6. Add the new file to the staging area  
+   git add SDA2039.txt
+
+7. Check status to confirm the file is staged  
+   git status
+
+8. Commit the change with a meaningful message  
+   git commit -m "feat: Add Nawal's section (SDA2039)"
+
+9. Push the branch to the remote repository  
+   git push origin feature-SDA2039
+
+10. Create a Pull Request (PR) on GitHub  
+    - Go to the repository  
+    - Click "Pull Requests" > "New Pull Request"  
+    - Set base: `main`, compare: `feature-SDA2039`  
+    - Title: `feat: Add Nawal's section (SDA2039)`  
+    - Submit the PR
+
+11. (Optional) Sync the local repository after PR is merged  
+    git checkout main  
+    git pull origin main
+
+---
+
+## Pull Request Link  
+🔗 https://github.com/clarusway/FS-Git-Live-Class/pull/42
