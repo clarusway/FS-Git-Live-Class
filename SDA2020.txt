@@ -1,0 +1,10 @@
+This is Manal's section for the project.
+git clone https://github.com/clarusway/FS-Git-Live-Class.git
+cd FS-Git-Live-Class
+git checkout -b feature-SDA2020
+echo "the content of this file" > SDA2020.txt
+git add SDA2020.txt
+git commit -m "feat: Add Manal section (SDA2020)"
+git push origin feature-SDA2020
+pull Request URL:
+https://github.com/clarusway/FS-Git-Live-Class/pull/xx 
