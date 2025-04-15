@@ -1,0 +1,8 @@
+-git clone https://github.com/clarusway/FS-Git-Live-Class.git
+git checkout -b feature-SDA2017
+git status
+git add SDA2035.txt
+git commit -m "feat: SDA2035"
+git push origin SDA2035
+git checkout main
+git pull origin main
