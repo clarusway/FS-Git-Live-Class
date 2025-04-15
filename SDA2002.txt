@@ -1,0 +1,13 @@
+This is Ibrahim's section for the project.
+
+Git Commands Used:
+git clone https://github.com/clarusway/FS-Git-Live-Class.git
+cd FS-Git-Live-Class
+git checkout -b feature-SDA2002
+echo "the content of this file" > SDA2002.txt
+git add SDA2002.txt
+git commit -m "feat: Add ibrahim's section (SDA2002)"
+git push origin feature-SDA2002
+
+Pull Request URL:
+https://github.com/clarusway/FS-Git-Live-Class/pull/XX
