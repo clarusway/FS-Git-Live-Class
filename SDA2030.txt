@@ -1,0 +1,35 @@
+This is Layan's section for the project
+
+Git cpmmands used: 
+
+cd desktop 
+
+git clone https://github.com/clarusway/FS-Git-Live-Class.git
+
+cd FS-Git-Live-Class/
+
+git branch SDA2030
+
+git checkout SDA2030
+
+echo "This is Layan's section for the project" > SDA2030.txt
+
+cat SDA2030.txt
+
+git status
+
+git add .
+
+git status
+
+git commit -m "Added Layan's(SDA2030) section for the Project" 
+
+git status
+
+git push origin SDA2030
+
+git status 
+
+Pull Request URL: https://github.com/clarusway/FS-Git-Live-Class/pull/47
+
+
