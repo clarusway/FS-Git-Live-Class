@@ -1,0 +1,4 @@
+git clone https://github.com/clarusway/FS-Git-Live-Class.git
+cd FS-Git-Live-Class
+git checkout -b SDA2021
+
