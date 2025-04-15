@@ -1,0 +1,17 @@
+git Workflow
+
+1. git clone https://github.com/clarusway/FS-Git-Live-Class.git
+
+2. cd FS-Git-Live-Class
+
+3. git checkout -b feature-SDA2017 
+
+4. echo "This is Yousef's section for the project." 
+
+5. git add SDA2017.txt
+
+6. git commit -m "feat: Add Yousef's section (SDA2017)" 
+
+7. git push origin feature-SDA2017 
+
+8. Created PR  
