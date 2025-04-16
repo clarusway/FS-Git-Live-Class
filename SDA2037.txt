@@ -1,1 +1,10 @@
-this is lama's part
+git clone https://github.com/clarusway/FS-Git-Live-Class
+cd FS-Git-Live-Class
+git checkout -b feature-SDA2037
+echo "this is lama's part" > SDA2037.txt
+git add SDA2037.txt
+git commit -m "feat: add lama's section SDA2037"
+git push origin feature-SDA2037
+
+PR LINK : https://github.com/clarusway/FS-Git-Live-Class/pull/68
+
