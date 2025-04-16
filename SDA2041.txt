@@ -1,0 +1,2 @@
+This is Amjad Albeladi section for the project
+Assignment Title: Collaborative Web Development with Git
