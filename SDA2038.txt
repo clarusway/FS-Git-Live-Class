@@ -1,0 +1,17 @@
+This is Renad’s section for the project.
+
+⸻
+
+Git Commands:
+
+git clone https://github.com/clarusway/FS-Git-Live-Class.git
+cd FS-Git-Live-Class
+git checkout -b feature-SDA2038
+echo "This is Renad's section for the project." > SDA2038.txt
+git add SDA2038.txt
+git commit -m "feat: Add Renad's section (SDA2038)"
+git push origin feature-SDA2038
+
+Pull Request Link:
+https://github.com/clarusway/FS-Git-Live-Class/pull/72
+
