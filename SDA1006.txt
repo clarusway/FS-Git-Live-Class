@@ -1,2 +1,18 @@
 This is Abdulmajeed's AKA. SDA1006 section for the project
 Abdulmajeed says that resident evil is such a great franchise but don't watch the realistic movies.
+------------------------------------------------------------------------
+Work Flow:--
+------------------------------------------------------------------------
+1- First things first I cloned the git in a study file:
+ -git clone https://github.com/clarusway/FS-Git-Live-Class.git
+2- I Made a text file with my serial No. and wrote a comment.
+ -touch SDA1006.txt
+3- I made a second branch called feature-SDA1006.
+ -git branch feature-SDA1006
+4- I commited and pushed.
+ -git add SDA1006.txt
+ -git commit -m "message"
+ -git push --set-upstream origin feature-SDA1006
+5- I logged into my github acc and made a pull request from my branch to main
+ *from website*
+6- "waiting for review. and wrote this workflow."
