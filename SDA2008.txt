@@ -1,0 +1,15 @@
+This is Shahad’s section for the project.
+
+Git Commands:
+
+git clone https://github.com/clarusway/FS-Git-Live-Class.git
+cd FS-Git-Live-Class
+git checkout -b feature-SDA2008
+echo "This is Shahad’s section for the project." > SDA2008.txt
+git add SDA2008.txt
+git commit -m "feat: Add Shahad's section (SDA2008)"
+git push origin feature-SDA2008
+
+Pull Request Link:
+https://github.com/clarusway/FS-Git-Live-Class/pull/71
+
