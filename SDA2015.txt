@@ -1,0 +1,13 @@
+git clone https://github.com/clarusway/FS-Git-Live-Class.git
+cd FS-Git-Live-Class
+git checkout -b feature-SDA2015
+echo "the content of this file" >SDA2015.txt
+git add SDA2015.txt
+git commit -m "feat: add Bushra's section (SDA2015)"
+git push origin feature-SDA2015
+
+
+
+Pull Request URL:
+https://github.com/clarusway/FS-Git-Live-Class/pull/xx
+ 
