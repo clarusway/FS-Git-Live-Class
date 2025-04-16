@@ -1,10 +1,17 @@
+# Clone the project from GitHub 
 git clone https://github.com/clarusway/FS-Git-Live-Class
+# Enter the project directory  
 cd FS-Git-Live-Class
+# Create and switch to a new branch
 git checkout -b feature-SDA2037
+# Create a file and add your content
 echo "this is lama's part" > SDA2037.txt
+# Stage the file for commit
 git add SDA2037.txt
-git commit -m "feat: add lama's section SDA2037"
+# Commit with a clear message
+git commit -m "feat: add lama's section SDA2037
+# Push the branch to GitHub"
 git push origin feature-SDA2037
-
+#My PR link
 PR LINK : https://github.com/clarusway/FS-Git-Live-Class/pull/68
 
