@@ -1,0 +1,28 @@
+
+# 1. Clone the Repository
+Command: git clone https://github.com/clarusway/FS-Git-Live-Class.git
+
+# 2. Create & Switch to a Feature Branch
+Command: git checkout -b feature-SDA2028
+
+
+# 3. Add Your Contribution
+ Command: touch SDA2028.txt
+echo  the project > SDA2028.txt
+
+# 4. Commit and Push Changes
+Command: git add SDA2028.txt
+
+Commit your changes with a meaningful message:
+git commit -m SDA2028
+
+Push your branch to the remote repository:
+git push origin SDA2028
+
+# 5. Create a Pull Request (PR)
+
+# 6. Review & Sync
+ Command: git checkout main
+git pull origin main
+
+# Pull Request Link 
