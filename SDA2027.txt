@@ -1,0 +1,11 @@
+This is Lina Fahad's section for the project.
+
+Git Workflow:
+-------------
+git clone https://github.com/clarusway/FS-Git-Live-Class.git
+cd FS-Git-Live-Class
+git checkout -b feature-SDA2027
+echo "This is Lina Fahad's section for the project." > SDA2027.txt
+git add SDA2027.txt
+git commit -m "feat: add SDA2027 contribution"
+git push origin feature-SDA2027
